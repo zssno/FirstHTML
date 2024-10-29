@@ -1,4 +1,7 @@
 .highlight:hover {
   background-color: yellow;
-  font-size: 18px;
+  font-size: 38px;
+}
+.bigtext {
+  font-size:20
 }
