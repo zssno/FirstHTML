@@ -6,6 +6,7 @@
   font-size:30px;
   text-align: center;
   background-color: pink;
+  font-family: "Lucida Console", monospace;
 }
 .sidelines {
   border:10px solid pink;
