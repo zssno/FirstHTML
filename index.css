@@ -10,6 +10,6 @@
 .sidelines {
   border:10px solid pink;
 }
-#bigbox {
+.bigbox {
   padding: 100px;
 }
