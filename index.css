@@ -5,7 +5,7 @@
 .bigtext {
   font-size:30px;
   text-align: center;
-  background-color: pink;
+  background: pink;
 }
 .sidelines {
   border:10px solid pink;
