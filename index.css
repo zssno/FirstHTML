@@ -19,8 +19,8 @@
   background-color: pink;
 }
 #leftside {
-  text-align: left;
+  text-align: left-center;
 }
 #rightside {
-  text-align: right;
+  text-align: right-center;
 }
