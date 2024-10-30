@@ -9,6 +9,7 @@
 }
 .sidelines {
   border:10px solid pink;
-  border-spacing: 5px;
+}
+#bigbox {
   padding: 100px;
 }
