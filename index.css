@@ -7,3 +7,6 @@
   font-size:30px;
   text-align: center;
 }
+.border {
+  border:10px solid pink;
+}
