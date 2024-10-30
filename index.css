@@ -1,12 +1,11 @@
 .highlight:hover {
   background-color: white;
   font-size: 38px;
-  text-align: center;
 }
 .bigtext {
   font-size:30px;
   text-align: center;
-  background-color:#FAA0A0
+  background-color:#faa0a0
 }
 .sidelines {
   border:10px solid pink;
