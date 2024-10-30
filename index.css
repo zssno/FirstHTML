@@ -18,9 +18,9 @@
   padding: 40px;
   background-color: pink;
 }
-p1 {
+#leftside {
   text-align: left;
 }
-p2 {
+#rightside {
   text-align: right;
 }
