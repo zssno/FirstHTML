@@ -18,9 +18,9 @@
   padding: 20px;
   background-color: pink;
 }
-#leftside {
-  text-align: left;
+.midtext {
+  font-size: 20px
 }
-#rightside {
-  text-align: right;
+.smalltext {
+  font-size: 15px
 }
