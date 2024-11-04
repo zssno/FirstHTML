@@ -9,14 +9,14 @@
   font-family: "Lucida Console", monospace;
 }
 .sidelines {
-  border:10px solid pink;
+  border:10px solid #c6db7a;
 }
 .bigbox {
   padding: 60px;
 }
 .midbox {
   padding: 20px;
-  background-color: pink;
+  background-color: #c6db7a;
 }
 .midtext {
   font-size: 20px
