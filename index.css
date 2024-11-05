@@ -24,11 +24,11 @@
 .smalltext {
   font-size: 15px
 }
-#whitebox {
+.whitebox {
   padding: 20px;
   background-color: #ffffff
 }
-#greenbox {
-    padding: 60px;
+.greenbox {
+  padding: 60px;
   background-color: #c6db7a:
 }
