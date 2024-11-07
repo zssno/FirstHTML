@@ -33,6 +33,7 @@
   background-color: #c6db7a;
 }
 .noborder {
-  border: 0px
-  cursor: pointer:
+  border: 0px;
+  cursor: pointer;
+  padding: 60px;
 }
