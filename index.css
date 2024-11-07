@@ -13,16 +13,16 @@
   border:10px solid #c6db7a;
 }
 .box1 {
- padding-top:60px
- padding-bottom:60px
- padding-left:70px
- padding-right:70px
+ padding-top:60px;
+ padding-bottom:60px;
+ padding-left:70px;
+ padding-right:70px;
 }
 .box2 {
- padding:60px
+ padding:60px;
 }
 .box3 {
- padding:60px
+ padding:60px;
 }
 .midbox {
   padding: 20px;
@@ -42,10 +42,3 @@
   padding: 60px;
   background-color: #c6db7a;
 }
-.nicebox {
-  width: 450px;
-  height: 30px;
-}
-.okaybox {
-  width: 40px:
-  height: 30px
