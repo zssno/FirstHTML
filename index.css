@@ -8,14 +8,14 @@
   text-align: center;
   background-color: #c6db7a;
   font-family: "Lucida Console", monospace;
-}
-.sidelines {
-  border:10px solid #c6db7a;
-}
-.box1 {
   width: 490px;
   height:150px;
 }
+
+.sidelines {
+  border:10px solid #c6db7a;
+}
+
 .midbox {
   padding: 20px;
   background-color: #c6db7a;
