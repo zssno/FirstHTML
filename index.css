@@ -1,6 +1,7 @@
 .highlight:hover {
   background-color: white;
   font-size: 38px;
+  cursor: pointer;
 }
 .bigtext {
   font-size:30px;
@@ -31,8 +32,4 @@
 .greenbox {
   padding: 60px;
   background-color: #c6db7a;
-}
-.noborder {
-  border: 0px;
-  cursor: pointer;
 }
