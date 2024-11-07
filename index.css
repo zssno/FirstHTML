@@ -13,6 +13,8 @@
   border:10px solid #c6db7a;
 }
 .bigbox {
+  width: 200px
+  height: 50px
 }
 .midbox {
   padding: 20px;
