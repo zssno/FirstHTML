@@ -11,20 +11,11 @@
   width: 460px;
   height:150px;
 }
-
 .sidelines {
   border:10px solid #c6db7a;
 }
-
-.midbox {
-  padding: 20px;
-  background-color: #c6db7a;
-}
-.midtext {
-  font-size: 20px;
-}
 .smalltext {
-  font-size: 15px;
+  font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
 .whitebox {
